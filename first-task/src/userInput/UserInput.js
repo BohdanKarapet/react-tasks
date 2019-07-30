@@ -6,7 +6,8 @@ const userInput = (props) => {
         <input
             className="input"
             type="text"
-            onChange={props.changed} />
+            onChange={props.changed}
+            value={props.defaultName} />
     );
 };
 

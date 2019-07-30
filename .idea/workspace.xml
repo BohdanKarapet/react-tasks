@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da30d4d1-b47c-44fb-8343-efa604d2a5aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/first-task/src/userInput/UserInput.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-task/src/userInput/UserInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/first-task/src/userOutput/userOutput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/first-task/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/src/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-task/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-task/src/userInput/UserInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/first-task/src/userInput/UserInput.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1564502477852</updated>
       <workItem from="1564502479096" duration="2632000" />
-      <workItem from="1564505783317" duration="292000" />
+      <workItem from="1564505783317" duration="529000" />
+      <workItem from="1564507213434" duration="82000" />
     </task>
     <servers />
   </component>
